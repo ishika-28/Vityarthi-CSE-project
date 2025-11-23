@@ -11,14 +11,14 @@ Managing finances is a part of life. The student, the working professional the h
 1. Programming language: Python
 2. Libraries: o matplotlib.pyplot for plotting bar charts and data visualization. o Pandas
 3. Data Storage: In-memory list of dictionaries to store expenses during the session.
-## Environment:
-1. Steps to install & Run the project
-2. Clone the repository: git clone
-3. Make sure python is installed on the system. If python is not installed, install python.
-4. Install matplotlib using pip install matplotlib and also install pandas.
-5. Save the python script file provided.
-6. Run the script using python expense_tracker.py from your terminal.
-Follow the menu options to add, view, and analyse expenses.
+4. Environment
+## Steps to install & Run the project
+1. Clone the repository: git clone
+2. Make sure python is installed on the system. If python is not installed, install python.
+3. Install matplotlib using pip install matplotlib and also install pandas.
+4. Save the python script file provided.
+5. Run the script using python expense_tracker.py from your terminal.
+6. Follow the menu options to add, view, and analyse expenses.
 ## Instructions for testing
 1. Add several expenses entries using different dates, categories, and amounts.
 2. I click the View Expenses button. I look at the table to see the expenses.
