@@ -1,29 +1,28 @@
 # Expense-Tracker
 ## Overview
-Managing finances is a part of life. The student, the working professional the homemaker all need to watch the income and the expenses. Budgeting matters. The personal finances need a picture of the income and the expenses, for budgeting and saving. The rising costs and the many daily transactions make the task hard to remember and track the spending. I have tried ways to keep track of my money. The expense tracker makes the job simple. The expense tracker is an app. The expense tracker helps a person manage finances. The expense tracker tracks income and expenses. I built the expense tracker to record each transaction and to put each transaction into a category. The expense tracker shows a health overview. The expense tracker lets me sort expenses look at spending habits and create reports that show where money goes. I used programming tools to make the expense tracker. The expense tracker lets the user enter expenses assign a category to each expense and produce summaries of activity. The expense tracker uses Pandas in Python to manage the data and look at the data. I use Matplotlib to see expense trends over time. I like the charts. Matplotlib shows the pattern of my spending as the months go by.
+Managing finances is a part of life. The student, the working people and the homemaker all need to track their income and the expenses. Budgeting matters a lot. The individual finances need a picture of the income and the expenses, for budgeting and saving. since rising costs and the many daily transactions make the work tough to remember and track the spending. People tried so many ways to keep the trak of their money. The expense tracker makes the job simple. The expense tracker is an app. The expense tracker helps a person manage finances. It tracks income and expenses. I built the expense tracker to record each transaction and to put each transaction into a category. The expense tracker shows the health overview. The expense tracker let people sort expenses look at spending habits and create reports that show where money goes. I used programming tools to make the expense tracker. The expense tracker lets the user enter expenses assign a category to each expense and produce summaries of activity. The expense tracker uses Pandas in Python to manage the data and look at the data. I use Matplotlib to see expense visualization over time.  Matplotlib shows the pattern of spending as the months go by.
 ## Features
 1. Add expenses: Record new expenses entries with date, category and amount.
 2. View all expenses: Display a tabulated summary of all recorded expenses, showing the date, category, and amount.
-3. View summary: Calculate and display total, average, maximum, and minimum expenses values using recorded data.
-4. Generate bar chart: Visualise daily expenses by aggregating and plotting them using bar charts.
-5. Input validations: I make sure Input validations checks that the entered amounts are numbers. Input validations catches any entry.
+3. View summary: Calculate and display total, average, maximum, and minimum expenses values using given data.
+4. Generate bar chart: Visualise daily expenses by plotting them using bar charts.
+5. Input validations: make sure that the input validations checks that the entered amounts are numbers. Input validations catches any entry.
 ## Technologies/tools used
 1. Programming language: Python
-2. Libraries: o matplotlib.pyplot for plotting bar charts and data visualization. o Pandas
-3. Data Storage: In-memory list of dictionaries to store expenses during the session.
-4. Environment
+2. Libraries: matplotlib.pyplot for plotting bar charts and data visualization and Pandas
+3. Data Storage: In-memory list of dictionaries to keep expenses during the session. 
 ## Steps to install & Run the project
-1. Clone the repository: git clone
+1. Clone the repository
 2. Make sure python is installed on the system. If python is not installed, install python.
 3. Install matplotlib using pip install matplotlib and also install pandas.
 4. Save the python script file provided.
-5. Run the script using python expense_tracker.py from your terminal.
-6. Follow the menu options to add, view, and analyse expenses.
+5. Run the script using expense_tracker.py from the terminal.
+6. Follow the menu options given to add, view, and analyse expenses.
 ## Instructions for testing
-1. Add several expenses entries using different dates, categories, and amounts.
-2. I click the View Expenses button. I look at the table to see the expenses.
-3. Press the "Generate Bar Chart" button. Then check that the daily expenses patterns are displayed correctly.
-4. Select “Exit” to close the application.
+1. The user need to add several expenses entries using different dates, categories, and amounts.
+2. Click the View Expenses button, look at the table to see the expenses.
+3. Press the "Generate Bar Chart" button,Then if the daily expenses patterns are displayed correctly.
+4. Select “Exit” to close the page.
 ## Screenshots   
 output screenshots are as follows:
 <img width="822" height="1028" alt="image" src="https://github.com/user-attachments/assets/f0e366cd-70a0-42b2-b3cf-8465779447c1" />
