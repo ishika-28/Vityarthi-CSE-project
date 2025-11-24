@@ -12,7 +12,7 @@ Managing finances is a part of life. The student, the working people and the hom
 2. Libraries: matplotlib.pyplot for plotting bar charts and data visualization and Pandas
 3. Data Storage: In-memory list of dictionaries to keep expenses during the session. 
 ## Steps to install & Run the project
-1. Clone the repository
+1. Clone the repository: gh repo clone ishika-28/Vityarthi-CSE-project
 2. Make sure python is installed on the system. If python is not installed, install python.
 3. Install matplotlib using pip install matplotlib and also install pandas.
 4. Save the python script file provided.
