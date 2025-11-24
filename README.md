@@ -1,5 +1,5 @@
 # Expense-Tracker
-## Overview
+## Overview of the project
 Managing finances is a part of life. The student, the working people and the homemaker all need to track their income and the expenses. Budgeting matters a lot. The individual finances need a picture of the income and the expenses, for budgeting and saving. since rising costs and the many daily transactions make the work tough to remember and track the spending. People tried so many ways to keep the trak of their money. The expense tracker makes the job simple. The expense tracker is an app. The expense tracker helps a person manage finances. It tracks income and expenses. I built the expense tracker to record each transaction and to put each transaction into a category. The expense tracker shows the health overview. The expense tracker let people sort expenses look at spending habits and create reports that show where money goes. I used programming tools to make the expense tracker. The expense tracker lets the user enter expenses assign a category to each expense and produce summaries of activity. The expense tracker uses Pandas in Python to manage the data and look at the data. I use Matplotlib to see expense visualization over time.  Matplotlib shows the pattern of spending as the months go by.
 ## Features
 1. Add expenses: Record new expenses entries with date, category and amount.
