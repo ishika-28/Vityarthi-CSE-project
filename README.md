@@ -15,9 +15,7 @@ Managing finances is a part of life. The student, the working people and the hom
 1. Clone the repository:https://github.com/ishika-28/Vityarthi-CSE-project.git
 2. Make sure python is installed on the system. If python is not installed, install python.
 3. Install matplotlib using pip install matplotlib and also install pandas.
-4. Save the python script file provided.
-5. Run the script using expense_tracker.py from the terminal.
-6. Follow the menu options given to add, view, and analyse expenses.
+4. Follow the menu options given to add, view, and analyse expenses.
 ## Instructions for testing
 1. The user need to add several expenses entries using different dates, categories, and amounts.
 2. Click the View Expenses button, look at the table to see the expenses.
